@@ -8,5 +8,5 @@ In this project, I am writing an interpreter program for a fake “X” language
 4. Input the .x file to run
 
 ## Output
-![](/Screenshots/interpreter_2.jpg)
-![](/Screenshots/interpreter_5.jpg)
+![](/Screenshot/interpreter_2.jpg)
+![](/Screenshot/interpreter_5.jpg)
