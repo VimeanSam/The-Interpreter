@@ -1,0 +1,6 @@
+LIT 24 i
+STORE 9 i
+LIT 45 j
+BOP +
+WRITE
+HALT

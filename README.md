@@ -1,2 +1,1 @@
-# The-Interpreter
-Interpreter for made up "X" language written in Java
+# csc413-p3
